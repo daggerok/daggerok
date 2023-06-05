@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I do software engineering, musc, love and peace
+
 <!--
 **daggerok/daggerok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
