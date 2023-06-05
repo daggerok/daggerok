@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 I do software engineering, musc, love and peace
 
